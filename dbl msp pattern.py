@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Feb 13 12:51:56 2019
-
-@author: gprenti
+Create regex pattern to capture string patterns of two characters which are impossible in the Kinyarwanda language
+and would indicate a misspelled name
 """
 import itertools as it
 import re
