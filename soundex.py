@@ -1,14 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue May  7 15:43:29 2019
-
-@author: gprenti
+Kinyarwanda soundex
+Adapted from OpenMRS phonetics alogrithm
+https://github.com/openmrs/openmrs-module-namephonetics/blob/master/api/src/main/java/org/openmrs/module/namephonetics/phoneticsalgorithm/KinyarwandaSoundex.java
 """
-# =============================================================================
-# Kinyarwanda soundex
-# Adapted from OpenMRS phonetics alogrithm
-# https://github.com/openmrs/openmrs-module-namephonetics/blob/master/api/src/main/java/org/openmrs/module/namephonetics/phoneticsalgorithm/KinyarwandaSoundex.java
-# =============================================================================
 
 def kSound(name):
     
